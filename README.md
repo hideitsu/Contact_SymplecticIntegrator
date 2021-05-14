@@ -1,7 +1,9 @@
 # Contact_SymplecticIntegrator
 Code to reproduce results in "Fast symplectic integrator for Nesterov-type acceleration method"
 
-Source codes and datasets to reproduce the experimental results reported in the ICML 2021 submission "Fast symplectic integrator for Nesterov-type acceleration method"
+Source codes and datasets to reproduce the experimental results reported in the ICML 2021 submission "Fast symplectic integrator for Nesterov-type acceleration method".
+
+MNIST datasets are too large hence X datasets are ziped. Please unzip before running.
 
 To reproduce the results on the comparison of SI2 and RK2/4, run
 
